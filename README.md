@@ -9,6 +9,10 @@ SKAVA is designed to assist you with various tasks through voice commands. It ai
 - Reminders and Alerts
 - Information Retrieval
 
+## Language program 
+Python
+
+
 ## Installation
 To install SKAVA, follow these steps:
 1. Download the SKAVA package from the official repository.
